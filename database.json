@@ -4,21 +4,21 @@
       "id": 1,
       "fullName": "Goofy Goof",
       "email": "GoofG@gmail.com",
-      "photo": "https://pngimg.com/uploads/goofy/goofy_PNG22.png",
+      "photo": "https://www.citypng.com/public/uploads/small/11661013265kptpcgd9xalhjbuybo50xbgkxj9ljyeqtjxb7tzbcpqwppzh9j2ozi5bwogyszulqvt9nb4s8pvw2rmrgqlrqmfesakzxafplpra.png ",
       "isStaff": false
     },
     {
       "id": 2,
       "fullName": "Sylvester Pussycat",
       "email": "SylvesterCat@gmail.com",
-      "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Sylvester_the_Cat.svg/800px-Sylvester_the_Cat.svg.png",
+      "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Sylvester_the_Cat.svg/800px-Sylvester_the_Cat.svg.png ",
       "isStaff": false
     },
     {
       "id": 3,
       "fullName": "Bugs Bunny",
       "email": "WhatsUpDoc@gmail.com",
-      "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/1200px-Bugs_Bunny.svg.png",
+      "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/1200px-Bugs_Bunny.svg.png ",
       "isStaff": false
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": 2,
-      "address": "9 Disney Ave",
+      "address": "23 Disney Ave",
       "phoneNumber": "202-244-7090",
       "userId": 1
     },
@@ -93,7 +93,7 @@
     },
     {
       "id": 2,
-      "specialty": "Apple Repair and Starting Fires",
+      "specialty": "Mac Repair and Starting Fires",
       "role": "Team Leader",
       "rate": 30,
       "userId": 5
