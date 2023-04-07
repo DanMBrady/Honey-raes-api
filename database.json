@@ -25,7 +25,7 @@
       "id": 4,
       "fullName": "Leonard Snart",
       "email": "AbsoluteZero@gmail.com",
-      "photo": "https://static.dc.com/dc/files/default_images/Char_Profile_CaptainCold_5c47c824a31862.57032666.jpg",
+      "photo": " https://static.dc.com/dc/files/default_images/Char_Profile_CaptainCold_5c47c824a31862.57032666.jpg ",
       "isStaff": true
     },
     {
@@ -88,7 +88,7 @@
       "id": 1,
       "specialty": "PC Repair and Freezing Foes",
       "role": "Manager",
-      "rate": 45,
+      "rate": 55,
       "userId": 4
     },
     {
@@ -102,7 +102,7 @@
       "id": 3,
       "specialty": "Printer Repair and Predicting the Weather",
       "role": "Salesman",
-      "rate": 25,
+      "rate": 30,
       "userId": 6
     },
     {
@@ -116,8 +116,8 @@
   "serviceTickets": [
     {
       "userId": 1,
-      "description": "Need help setting my phone up",
-      "emergency": false,
+      "description": "Need help setting up my phone",
+      "emergency": true,
       "dateCompleted": "",
       "id": 1
     },
@@ -137,8 +137,8 @@
     },
     {
       "userId": 1,
-      "description": "Computer smells weird ",
-      "emergency": true,
+      "description": "Computer smells like tacos",
+      "emergency": false,
       "dateCompleted": "",
       "id": 4
     },
@@ -152,9 +152,23 @@
     {
       "userId": 7,
       "description": "Headphones don't fit my ears",
-      "emergency": true,
+      "emergency": false,
       "dateCompleted": "",
       "id": 6
+    },
+    {
+      "userId": 7,
+      "description": "My screen's broken",
+      "emergency": true,
+      "dateCompleted": "",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "description": "I lost my tv",
+      "emergency": true,
+      "dateCompleted": "",
+      "id": 8
     }
   ],
   "employeeTickets": [
