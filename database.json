@@ -183,19 +183,14 @@
       "serviceTicketId": 3
     },
     {
-      "id": 3,
       "employeeId": 1,
-      "serviceTicketId": 2
+      "serviceTicketId": 2,
+      "id": 3
     },
     {
-      "id": 4,
       "employeeId": 1,
-      "serviceTicketId": 4
-    },
-    {
-      "id": 5,
-      "employeeId": 4,
-      "serviceTicketId": 5
+      "serviceTicketId": 4,
+      "id": 4
     }
   ]
 }
